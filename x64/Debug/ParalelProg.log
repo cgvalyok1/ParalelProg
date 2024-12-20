@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\grats\source\repos\ParalelProg\main.cpp(9,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\grats\source\repos\ParalelProg\main.cpp(17,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\grats\source\repos\ParalelProg\main.cpp(24,50): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\grats\source\repos\ParalelProg\main.cpp(25,72): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+  ParalelProg.vcxproj -> C:\Users\grats\source\repos\ParalelProg\x64\Debug\ParalelProg.exe

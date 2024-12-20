@@ -1,0 +1,9 @@
+﻿  Sums.cpp
+C:\Users\grats\source\repos\ParalelProg\Sums.cpp(15,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\grats\source\repos\ParalelProg\Sums.cpp(23,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\grats\source\repos\ParalelProg\Sums.cpp(47,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\grats\source\repos\ParalelProg\Sums.cpp(52,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\grats\source\repos\ParalelProg\Sums.cpp(75,9): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\grats\source\repos\ParalelProg\Sums.cpp(258,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\grats\source\repos\ParalelProg\Sums.cpp(263,20): warning C4018: <: несоответствие типов со знаком и без знака
+  ParalelProg.vcxproj -> C:\Users\grats\source\repos\ParalelProg\Debug\ParalelProg.exe

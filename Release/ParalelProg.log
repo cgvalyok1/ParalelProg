@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\grats\source\repos\ParalelProg\main.cpp(9,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\grats\source\repos\ParalelProg\main.cpp(17,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  Создание кода завершено
+  Previous IPDB not found, fall back to full compilation.
+  All 79 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  ParalelProg.vcxproj -> C:\Users\grats\source\repos\ParalelProg\Release\ParalelProg.exe
