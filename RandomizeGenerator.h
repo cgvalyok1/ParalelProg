@@ -51,11 +51,12 @@ void affine_transform(unsigned aa, unsigned bb, F map, unsigned* v, size_t n, un
 		}
 	}
 }
+/*
 // x0 = 0  x10 = 1828254910 = 0x6CF8F4BE
 // x_min + x mod (x_max - x_min + 1)
 void randomize(unsigned* v, size_t n, unsigned x0, unsigned x_min, unsigned x_max)
 {
-	/*
+	
 	параллельный участок:
 		[b, e) = subvector(t, T, n);
 		af m(A, B);
@@ -64,12 +65,12 @@ void randomize(unsigned* v, size_t n, unsigned x0, unsigned x_min, unsigned x_ma
 			x = my_m(x0)
 			v[i] = r(x) // mod
 			my_m *= m
-	*/
+	
 }
-
-void home_randomize(unsigned* v, size_t n, unsigned x_min, unsigned x_max, unsigned entropy) {
-	unsigned a = 3; // parameter of affine transformation
-	unsigned b = 7; // same
+*/
+void randomize(unsigned* v, size_t n, unsigned x_min, unsigned x_max, unsigned entropy) {
+	unsigned a = 0x8088405; // parameter of affine transformation
+	unsigned b = 1; // same
 	unsigned range = x_max - x_min + 1;
 
 	// Lambda to transformate numbers into interval [x_min, x_max]
